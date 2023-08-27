@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="BagroundN">#242127</color>
+    <color name="head_colour">#6A6177</color>
+    <color name="white">#FDE6C2</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white1">#4D6CC4F1</color>
+    <color name="transperent">#00555555</color>
+</resources>
